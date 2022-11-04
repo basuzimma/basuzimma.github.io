@@ -1,0 +1,233 @@
+.main {
+    position: relative;
+    left: 5%;
+    height: 3500px;
+    width: 1000px;
+    border: 2px solid gray;
+    background-color: rgb(248, 248, 248);
+}
+
+.name {
+    position: absolute;
+    top: 0%;
+    left: 30%;
+}
+
+.img {
+    position: absolute;
+    left: 75%;
+    top: 2.5%;
+    border: 2px solid gray;
+}
+
+.contact {
+    position: absolute;
+    left: 7%;
+    top: 2%; 
+}
+
+.spec {
+    position: absolute;
+    left: 7%;
+    top: 9%; 
+}
+
+.height {
+    line-height: 30px;
+}
+
+.money {
+    position: absolute;
+    left: 82%;
+    top: 9%; 
+}
+
+.exp {
+    position: absolute;
+    color: rgb(99, 98, 98);
+    left: 7%;
+    top: 14%;
+}
+
+.colorgray {
+    color: rgb(84, 84, 84);
+}
+
+dl {
+    color: black;
+    line-height: 25px;
+}
+
+p {
+    color: black;
+    line-height: 25px;
+}
+
+.left {
+    position: relative;
+    left: 0;
+    top: 16%;
+    height: 1500px;
+    width: 200px;
+    border: 1px solid none;
+}
+
+.article1 {
+    position: absolute;
+    text-align: center;
+    top:0%;
+}
+
+.right {
+    position: relative;
+    left: 230px;
+    top: -940px;
+    height: 1500px;
+    width: 750px;
+    border: 1px solid none;
+}
+
+.article2 {
+    position: absolute;
+    top:0%; 
+    left: 1%;
+    right: 7%;
+}
+
+.article3 {
+    position: absolute;
+    text-align: center;
+    top:58%;
+}
+
+.article4 {
+    position: absolute;
+    top: 58%;
+    left: 1%;
+    right: 7%;
+}
+
+.skiles {
+    position: absolute;
+    color: rgb(99, 98, 98);
+    left: 7%;
+    top: 62%;
+}
+
+.drive {
+    position: absolute;
+    left: 7%;
+    top: 69.5%;
+}
+
+.aboutme {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 73%;
+}
+
+main.main>section.study {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 78.5%;
+}
+
+main.main>section.study>article.left2 {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    height: 120px;
+    width: 200px;
+    border: 1px solid none;
+    text-align: center;
+}
+
+main.main>section.study>article.right2 {
+    position: relative;
+    left: 220px;
+    top: -125px;
+    height: 120px;
+    width: 650px;
+    border: 1px solid none;
+}
+
+.language {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 83%;
+}
+
+main.main>section.kvolity {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 87%;
+}
+
+main.main>section.kvolity>article.left3 {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    height: 120px;
+    width: 200px;
+    border: 1px solid none;
+    text-align: center;
+}
+
+main.main>section.kvolity>article.right3 {
+    position: relative;
+    left: 220px;
+    top: -130px;
+    height: 120px;
+    width: 650px;
+    border: 1px solid none;
+}
+
+main.main>section.kvolity>article.left4 {
+    position: relative;
+    left: 0px;
+    top: -200px;
+    height: 120px;
+    width: 200px;
+    border: 1px solid none;
+    text-align: center;
+}
+
+main.main>section.kvolity>article.right4 {
+    position: relative;
+    left: 220px;
+    top: -340px;
+    height: 120px;
+    width: 650px;
+    border: 1px solid none;
+}
+
+main.main>section.kvolity>article.left5 {
+    position: relative;
+    left: 0px;
+    top: -400px;
+    height: 120px;
+    width: 200px;
+    border: 1px solid none;
+    text-align: center;
+}
+
+main.main>section.kvolity>article.right5 {
+    position: relative;
+    left: 220px;
+    top: -540px;
+    height: 120px;
+    width: 650px;
+    border: 1px solid none;
+}
+
+.goverment {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 94.5%;
+}
+
